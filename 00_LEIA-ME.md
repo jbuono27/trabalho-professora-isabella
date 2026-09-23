@@ -15,8 +15,8 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[Analise e desenvolvimento de Sistemas, Design Profissional]`
-- Professor ou orientador: `[Isabella luiza]`
+- Curso e disciplina: `[Análise e Desenvolvimento de Sistemas, Design Profissional]`
+- Professor ou orientador: `[Isabella Luiza]`
 - Grupo: `[Impacto social da tecnologia]`
 - Integrantes: `[Jonathan Buono, Leonardo Castilho]`
 - Data de início: `[23/09/2026]`
