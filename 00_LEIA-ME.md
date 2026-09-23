@@ -15,11 +15,11 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 
 ## Identificação geral
 
-- Curso e disciplina: `[preencher]`
-- Professor ou orientador: `[preencher]`
-- Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data de início: `[dd/mm/aaaa]`
+- Curso e disciplina: `[Analise e desenvolvimento de Sistemas, Design Profissional]`
+- Professor ou orientador: `[Isabella luiza]`
+- Grupo: `[Impacto social da tecnologia]`
+- Integrantes: `[Jonathan Buono, Leonardo Castilho]`
+- Data de início: `[23/09/2026]`
 
 
 
