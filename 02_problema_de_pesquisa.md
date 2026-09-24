@@ -15,10 +15,10 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 ## Verificação
 
 - O que se deseja descobrir ou compreender? `[Compreender até que ponto as pessoas utilizam a tecnologia para realizarem as escolhas nas áreas que estão inseridas, como escola, profissão, trabalho, vida social, política, entre outros aspectos relacionados.]`
-- Qual é o objeto da pergunta? `[preencher]`
-- Qual é o contexto ou recorte? `[preencher]`
-- A pergunta pode ser respondida por artigos científicos? `[Sim/Não. Justifique.]`
-- Por que essa pergunta é relevante? `[preencher]`
+- Qual é o objeto da pergunta? `[Descobrir como a tecnologia nos afeta de forma direta e indireta.]`
+- Qual é o contexto ou recorte? `[Impacto social.]`
+- A pergunta pode ser respondida por artigos científicos? `[Sim, porquê desenvolve e acompanha através de dados científicos a correlação de a tecnologia está inserida e dominando às pessoas nas diversas áreas sociais.]`
+- Por que essa pergunta é relevante? `[Para compreendermos da melhor forma os problemas que merecem atenção para assim alcançar a solução.]`
 
 ## Produto da etapa
 
@@ -36,4 +36,4 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `[Leonardo Castilho]` | `[Jonathan Buono]` |
