@@ -6,26 +6,26 @@ Defina o objetivo geral e os objetivos específicos do artigo.
 
 ## Problema de pesquisa
 
-`[copie a pergunta aprovada]`
+`[Como a tecnologia influencia suas escolhas no cotidiano?]`
 
 ## Objetivo geral
 
-`[Inicie com um verbo no infinitivo, como analisar, comparar, identificar, mapear, discutir ou sintetizar.]`
+`[Identificar e analisar a influencia da tecnologia, como por exemplo, escolha de estilo de vestimenta, escolha de profissão, entre outros.]`
 
 ## Objetivos específicos
 
-1. `[preencher]`
-2. `[preencher]`
-3. `[preencher]`
-4. `[opcional]`
+1. `[Identificar os pontos bons]`
+2. `[Identificar os pontos ruins]`
+3. `[Classificar os pontos que podem ser melhorados]`
+   
 
 ## Quadro de alinhamento
 
 | Elemento | Texto |
 |---|---|
-| Problema | `[preencher]` |
-| Objetivo geral | `[preencher]` |
-| Resultado esperado | `[O que o artigo deverá apresentar ao final?]` |
+| Problema | `[Má influencia da tecnologia na vida das pessoas.]` |
+| Objetivo geral | `[Identificar todos os aspectos causados socialmente.]` |
+| Resultado esperado | `[Quais pontos podemos melhorar.]` |
 
 ## Produto da etapa
 
