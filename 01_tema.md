@@ -7,40 +7,42 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ## Identificação
 
 - Grupo: `[preencher]`
-- Integrantes: `[preencher]`
-- Data: `[dd/mm/aaaa]`
+- Integrantes: `[Jonathan Buono, Leonardo Castilho]`
+- Data: `[23/09/2026]`
 
 ## Preenchimento
 
 ### Área geral
 
-`[Qual é a área ampla de interesse?]`
+`[Impacto social da tecnologia]`
 
 ### Tema delimitado
 
-`[Escreva o tema específico em uma ou duas frases.]`
+`[Como a tecnologia impacta negativamente e beneficamente em nossas vidas.]`
 
 ### Do tema amplo ao específico
 
-- Tema amplo: `[preencher]`
-- Objeto estudado: `[preencher]`
-- Contexto ou aplicação: `[preencher]`
-- Aspecto que será analisado: `[preencher]`
-- O que ficará fora do estudo: `[preencher]`
+- Tema amplo: `[Impacto social da tecnologia]`
+- Objeto estudado: `[O avanço da tecnologia]`
+- Contexto ou aplicação: `[dia-a-dia, trabalho, escola, sociedade e comunicação.]`
+- Aspecto que será analisado: `[Os pontos bons e ruins que o avanço da tecnologia nos trouxe.]`
+- O que ficará fora do estudo: `[Desenvolvimento de softwares, programação etc.]`
 
 ### Justificativa
 
-`[Explique em 3 a 5 linhas por que o tema é importante.]`
+`[O avanço da tecnologia nos últimos tempos é nitida, ela influencia diretamente os nossos estudos, trabalhos, comunicação, a comunidade a qual estamos inseridos. Mesmo trazendo diversos beneficios como praticidade nos dia-a-dia e produtividade, o uso dela traz diversos maleficios, como dependência, desinformação social e doencas (transtornos mentais).
+Dessa forma é importante analisar quais são os impactos gerados e quais são as soluções.]`
+
 
 ### Viabilidade
 
-- Há artigos científicos disponíveis? `[Sim/Não/Parcialmente]`
-- O tema pode ser estudado no prazo? `[Sim/Não]`
-- O grupo possui acesso às fontes necessárias? `[Sim/Não]`
+- Há artigos científicos disponíveis? `[Sim]`
+- O tema pode ser estudado no prazo? `[Sim]`
+- O grupo possui acesso às fontes necessárias? `[Sim]`
 
 ## Produto da etapa
 
-Tema delimitado e justificativa.
+Os impactos do avanço da tecnologia geram na sociedade contemporanea.
 
 ## Checklist
 
@@ -54,4 +56,4 @@ Tema delimitado e justificativa.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `[nome]` | `[preencher]` |
+| `Leonardo Castilho ` | `[Jonathan Buono]` |
