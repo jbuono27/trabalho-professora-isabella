@@ -1,45 +1,44 @@
-# Etapa 5 Matriz de síntese e organização da revisão
-
-## Solicitação
+Etapa 5 Matriz de síntese e organização da revisão
+Solicitação
 
 Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas uma sequência de resumos.
 
-## Eixos da revisão
+Artigos analisados
 
-1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
-3. `[Eixo ou subtema 3, se necessário]`
+A1: Teixeira Netto, Andrade e Romano (2022): inclusão digital e literacia em saúde em Manguinhos (RJ), durante a pandemia.
+A2: Bitencourt et al. (2023): percepções de moradores de uma comunidade rural baiana sobre smartphone e internet.
+A3: Cruz et al. (2024): análise bibliométrica sobre dificuldades de inclusão digital na educação na pandemia.
+Eixos da revisão
+Exclusão digital como exclusão social: acesso, qualidade da conexão e acesso a direitos e serviços.
+Mediação educativa e formação como caminho para reduzir desigualdades.
+Efeitos ambivalentes da tecnologia nos vínculos e no cotidiano.
+Matriz de síntese
+Eixo	Artigos relacionados	Convergências	Divergências	Limitações	Lacunas
+1. Exclusão digital como exclusão social	A1 (Teixeira Netto et al., 2022); A2 (Bitencourt et al., 2023); A3 (Cruz et al., 2024)	Os três tratam o acesso à tecnologia como condição para participar da vida social. A1 afirma que exclusão digital e exclusão social viram consequência uma da outra e defende que o Estado garanta acesso à internet. A2 observa que a tecnologia está virando pré-requisito para acessar informação e políticas públicas. A3 conclui que a pandemia aprofundou a exclusão digital.	A1 e A3 tratam o acesso como problema de ter ou não ter estrutura. A2 mostra que todos os entrevistados tinham internet em casa, mas a experiência era limitada pela qualidade dos aparelhos e da conexão. Ou seja, ter acesso não basta. Também diferem os públicos: idosos urbanos de baixa renda (A1), adultos rurais (A2) e crianças e adolescentes na educação (A3).	A1: único território, sem grupo de comparação, e a seção de limitações é inexistente. A2: 10 entrevistados em uma comunidade, coleta de uma semana, só adultos. A3: uma única base (Scopus), recorte de 2020 a 2022 e só 4 artigos lidos em profundidade, de 90 encontrados.	Falta comparar contextos (urbano, rural, escolar) em um mesmo estudo. A qualidade do acesso (aparelho, conexão) aparece como achado em A2, mas não é medida nos outros dois. O que aconteceu com a exclusão digital depois de 2022 não é coberto pelas leituras.
+2. Mediação educativa e formação	A1; A3 (com contraste em A2)	A1 e A3 apontam que o acesso sozinho não resolve: A1 relata ganhos (autocuidado, identificar informação falsa, volta aos estudos, negócios, emprego) quando há ensino, paciência e escuta. A3 destaca a necessidade de melhorar a formação docente e de estratégias que aproximem alunos e professores das tecnologias.	A1 mostra uma intervenção que deu certo, em formato remoto e dialógico. A3 mostra um quadro de dificuldades: escolas e professores com problemas de adaptação e estudantes sem acesso às aulas. Os focos são diferentes: A1 forma o público (idosos) e A3 trata da formação de quem ensina (docentes). A2 não analisa nenhuma ação educativa.	A1: resultados baseados em satisfação e percepção; a prevenção da Covid não foi medida; quem desistiu fica de fora. A3: é um mapa da literatura e não explica causas, e a leitura qualitativa cobre poucos estudos.	Não há avaliação de efeito com comparação para ações como a de A1 (os próprios autores sugerem medir o resultado na prevenção do contágio). Nas leituras, falta ligar a formação docente (A3) com experiências de formação de comunidades (A1). Não aparece nenhuma ação educativa em contexto rural.
+3. Efeitos ambivalentes nos vínculos e no cotidiano	A2; A1	A1 e A2 mostram que a tecnologia afeta vínculos. Em A1, o grupo funciona como companhia e as aulas ajudaram os alunos a não se sentirem sozinhos. Em A2, o WhatsApp reaproximou famílias com parentes em São Paulo.	A1 destaca o lado esperançoso, sem registrar efeitos negativos. A2 mostra que os mesmos moradores relatam aproximação e afastamento, e associam o uso excessivo a vício ou doença. Em A2, até quem não tem o aparelho sente os efeitos da sua presença. A diferença pode vir do desenho: A1 estuda uma ação educativa acompanhada, A2 estuda o uso espontâneo no cotidiano.	A1: percepção dos participantes, sem comparação. A2: só adultos foram ouvidos, embora falem das crianças; o quadro que resume as categorias é pouco claro. Não dá para generalizar nenhum dos dois.	Nenhum dos estudos mede os efeitos nos vínculos. Faltam as vozes de crianças e jovens (A2 só ouviu adultos; A3 trata do tema pela literatura). Nada nas leituras investiga se o uso excessivo aparece em contextos com mediação educativa.
+Roteiro da revisão da literatura
+Eixo 1: Exclusão digital como exclusão social
+Ideia principal: O acesso à tecnologia virou condição para participar da vida social e chegar a direitos e serviços; quem fica de fora é afastado de informação, educação e políticas públicas. Ter acesso, porém, não é só ter o aparelho: a qualidade da conexão e do equipamento também pesa.
+Evidências que serão usadas: A1 (afirmação de que exclusão digital e exclusão social tornaram-se consequência uma da outra, p. 2, e defesa de que o Estado garanta acesso à internet); A2 (tecnologia como pré-requisito para informação e políticas públicas; limites de aparelhos e conexão mesmo com internet em casa); A3 (a pandemia aprofundou a exclusão digital; nem todos possuíam estrutura necessária para adentrar nas aulas virtuais, p. 2; 8 publicações brasileiras entre as 90 encontradas).
+Comparação entre estudos: Os três convergem na ideia de que a falta de acesso aprofunda desigualdades, mas em escalas diferentes: A1 e A2 são estudos de caso locais (urbano e rural) e A3 é um panorama da produção científica, em geral. A2 acrescenta que o acesso não é uma questão de sim ou não, e isso nuança A1 e A3.
+Ligação com o problema: Sustenta a ideia de que o impacto social da tecnologia depende de quem tem acesso e de quem fica de fora, e que políticas públicas de acesso são parte do problema.
+Eixo 2: Mediação educativa e formação
+Ideia principal: A tecnologia reduz desigualdades quando vem acompanhada de ensino, escuta e formação; sem isso, as dificuldades de adaptação de escolas, professores e estudantes se acumulam.
+Evidências que serão usadas: A1 (91% dos alunos disseram que as oficinas ajudaram no autocuidado; 82% que as aulas sobre a Covid ajudaram na prevenção; 89% dos profissionais de saúde viram as oficinas como complemento ao atendimento individual; relatos de volta aos estudos, negócios e emprego); A3 (dificuldades de escolas e professores, necessidade de melhorar a formação docente, estratégias para aproximar alunos e professores das tecnologias).
+Comparação entre estudos: A1 é uma experiência bem-sucedida de formação de adultos e idosos; A3 aponta o problema contrário, em que a falta de preparo e de estrutura atrapalhou o ensino remoto. Juntos, mostram os dois lados: o que funciona quando há mediação e o que falha quando ela falta. Por serem relatos de percepção (A1) e mapa bibliométrico (A3), nenhum dos dois comprova efeito.
+Ligação com o problema: Mostra que investir em acesso sem investir em formação deixa o problema pela metade, e que a mediação educativa é um caminho concreto de impacto social positivo.
+Eixo 3: Efeitos ambivalentes nos vínculos e no cotidiano
+Ideia principal: A tecnologia aproxima e afasta ao mesmo tempo. Ela pode reduzir a solidão e reaproximar famílias, mas também ser associada a vício, a desligar-se da comunidade e a mudanças que atingem até quem não usa.
+Evidências que serão usadas: A2 (WhatsApp reaproximando famílias; uso excessivo associado a vício ou doença; citação "Se desligou dos acontecimentos da própria comunidade em si", p. 84); A1 (o grupo como companhia, aulas que ajudaram a não se sentir sozinho na pandemia).
+Comparação entre estudos: A1 e A2 concordam que há ganhos de vínculo, mas só A2 registra o lado negativo. A2 mostra a ambivalência dentro do mesmo relato, o que pede cautela com leituras que veem a tecnologia só como solução (como o tom esperançoso de A1) ou só como problema.
+Ligação com o problema: Humaniza a discussão e reforça que o impacto social da tecnologia não é nem "bom" nem "ruim" por si só: depende do contexto, do acompanhamento e de quem usa.
+Síntese crítica provisória
 
-## Matriz de síntese
+Os três artigos convergem em um ponto: o acesso à tecnologia virou condição para participar da vida social, e a falta dele aprofunda desigualdades, seja na saúde e no cotidiano de uma comunidade urbana vulnerável (A1), no acesso a informação e políticas públicas no campo (A2) ou na educação durante a pandemia (A3). Há também uma tendência comum de mostrar que o acesso, sozinho, não basta: A2 aponta limites de aparelhos e conexão, e A1 e A3 destacam o papel do ensino e da formação. As divergências aparecem no balanço dos efeitos. A1 é esperançoso e destaca ganhos quando há mediação educativa, enquanto A2 mostra que os mesmos moradores sentem aproximação e afastamento, e A3, ao mapear a literatura, enfatiza dificuldades. Essas diferenças se explicam em parte pelos desenhos dos estudos (uma intervenção, um estudo de percepções e uma análise bibliométrica) e pelos públicos (idosos, adultos rurais, estudantes e professores). As limitações são recorrentes: amostras pequenas ou casos únicos (A1 e A2), resultados de percepção sem comparação (A1) e recorte restrito a uma base e a quatro artigos lidos em profundidade (A3), de modo que nenhum permite generalizar. Como lacunas, as leituras sugerem a falta de avaliações de efeito com comparação para ações como a de A1, de estudos que comparem contextos urbano, rural e escolar, de vozes de crianças e jovens, de medidas dos efeitos da tecnologia nos vínculos e de dados posteriores a 2022.
 
-|Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
-|-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
-
-## Roteiro da revisão da literatura
-
-### Eixo 1
-
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
-
-### Eixo 2
-
-* Ideia principal: `[preencher]`
-* Evidências que serão usadas: `[preencher]`
-* Comparação entre estudos: `[preencher]`
-* Ligação com o problema: `[preencher]`
-
-## Síntese crítica provisória
-
-`[Escreva um parágrafo indicando tendências, divergências e lacunas.]`
-
-## Checklist
-
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
-* [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
-
+Checklist
+ Os artigos foram agrupados por ideias.
+ Há comparações entre estudos.
+ As divergências foram registradas.
+ As lacunas são específicas e sustentadas pelas leituras.
