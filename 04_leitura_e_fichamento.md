@@ -43,6 +43,7 @@ O método e os resultados foram identificados.
 As limitações foram registradas.
 A conexão com o tema foi explicada.
 Toda citação literal contém página.
+
 Artigo 2
 Identificação do artigo
 
@@ -88,6 +89,7 @@ O método e os resultados foram identificados.
 As limitações foram registradas.
 A conexão com o tema foi explicada.
 Toda citação literal contém página.
+
 Artigo 3
 Identificação do artigo
 
